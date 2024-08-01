@@ -4,6 +4,6 @@
 - To practice git version controls and github calaborations
 - To learn android developer fundamentals and flutter
 
-## Everyone who got access to this repository are allowed download, edit and commit changes in a branch.
+### Everyone who got access to this repository are allowed download, edit and commit changes in a branch.
 
-Thank you!
+#### Thank you!
