@@ -9,3 +9,5 @@
 #### Thank you!
 
 ###### I'm testing git envirement. So, please ignore these messages. Thank you!
+###### I am editing the README file. Adding some more details about the project description.
+###### This is for testing git via terminal
